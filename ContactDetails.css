@@ -1,8 +1,8 @@
 *{
     margin: 0;
     padding: 0%;
-    background: rgb(47, 241, 73);
-    color: black;
+    background: #e2e7d2;
+    color: #6f8747;
 }
 
 body{
@@ -52,6 +52,7 @@ button{
     border-radius: 30px;
     margin-top: 100px;
     transition: 0.6s;
+    color: black;
 }
 
 button:hover{
